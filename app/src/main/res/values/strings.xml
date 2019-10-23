@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FunMusic</string>
+    <string name="tab_text_1">All Songs</string>
+    <string name="tab_text_2">played History</string>
+    <string name="artist_name">Artist Name</string>
+    <string name="collection_name">Collection Name</string>
+    <string name="track_name">Track Name</string>
+    <string name="track_price_name">Track Price</string>
+    <string name="no_result_found">No Record Found</string>
+    <string name="mail_address">giriseema33@gmail.com</string>
+    <string name="feedback">Feedback</string>
+    <string name="release_date">Release Date</string>
+</resources>
